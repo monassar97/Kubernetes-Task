@@ -27,5 +27,5 @@ spec:\
       volumes:\
         - name: storage\
           persistentVolumeClaim:\
-            claimName: persistance-volume-claim2\
+            claimName: persistent-volume-claim1
 }
